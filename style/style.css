@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/03/18/19/social-media-1795578_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.task {
+    border: 0.5px solid black;
+    box-sizing: content-box;
+    width: 470px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 120px;
+    background-image: url(https://cdn.pixabay.com/photo/2019/04/13/13/48/beach-4124656__340.jpg); 
+    
+}
+.login{
+    text-align: center;
+     }
+.login-test{
+    width: 50px;
+    height: 40px;
+     }
+     .task5 {
+        margin-top: 20px;
+     }
+     a:link {
+        text-decoration: none 
+    }
